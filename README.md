@@ -19,6 +19,8 @@ if (rng.bool()) {
 } else {
     console.log('Tails!')
 }
+
+console.log('cash on hand: ' + rng.number(3.50, 10))
 ```
 
 ## Uninstallation
