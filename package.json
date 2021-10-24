@@ -4,5 +4,6 @@
   "description": "A 100% fair random number generator, every day of the year!",
   "main": "index.js",
   "author": "Connor Clark",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "connorjclark/totally-fair-rng"
 }
