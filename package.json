@@ -1,6 +1,6 @@
 {
   "name": "totally-fair-rng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A 100% fair random number generator, every day of the year!",
   "main": "index.js",
   "author": "Connor Clark",
